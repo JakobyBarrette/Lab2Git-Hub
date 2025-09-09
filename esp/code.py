@@ -1,3 +1,4 @@
+#modification apporté pour amélioré le code
 import supervisor
 supervisor.runtime.autoreload = False
 import board
